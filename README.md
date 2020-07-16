@@ -24,6 +24,10 @@
   <a href="https://linkedin.com/in/julianpufler">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
-  <br>
+  <br><br>
   <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visitors/puf17640/puf17640?style=flat-square&color=black&logo=github">
+  </a>
 </p>
