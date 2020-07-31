@@ -34,4 +34,10 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
   </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
+  </a>
 </p>
