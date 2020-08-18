@@ -24,10 +24,6 @@
   <a href="https://linkedin.com/in/julianpufler">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
-  &emsp;
-  <a href="https://twitter.com/julianpufler">
-    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
-  </a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
