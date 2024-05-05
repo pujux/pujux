@@ -22,23 +22,23 @@
   </a>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/pujux/pujux?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/visits/pujux/pujux?style=flat-square&color=black&logo=github&a=1">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/pujux?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/years/pujux?style=flat-square&color=black&logo=github&a=1">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/pujux?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/repos/pujux?style=flat-square&color=black&logo=github&a=1">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/pujux?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/gists/pujux?style=flat-square&color=black&logo=github&a=1">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/pujux?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/commits/monthly/pujux?style=flat-square&color=black&logo=github&a=1">
   </a>
   <br><br>
   <strong>My latest stars</strong>
   <a href="">
-    <img src="https://badges.pufler.dev/last-stars/pujux/?count=6&amp;padding=15&amp;perRow=3">
+    <img src="https://badges.pufler.dev/last-stars/pujux/?count=6&padding=15&perRow=3&a=1">
   </a>
 </p>
