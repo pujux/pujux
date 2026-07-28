@@ -33,6 +33,6 @@
   <br><br>
   <strong>My latest stars</strong>
   <a href="">
-    <img src="https://badges.pufler.dev/last-stars/pujux/?count=6&padding=15&perRow=3&a=3">
+    <img src="https://badges.pufler.dev/last-stars/pujux/?count=12&padding=15&perRow=4">
   </a>
 </p>
