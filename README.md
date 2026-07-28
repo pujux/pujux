@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/pujux" class="rich-diff-level-one">
-    <img src="./profile/stats.svg" alt="Julian's Stats" >
-  </a>
-</p>
-
-<p align="center">
   <a href="https://dev.to/pujux">
     Blog
   </a>
